@@ -20,11 +20,6 @@ Hello! I'm **Kamuran Doğan**. I'm an active mobile app developer, specializing 
 ### [Wedding Shopping Check](https://github.com/kamurandogan/CeyizListem)
 A shopping and dowry list management app developed for those preparing for a wedding. Users can create, manage, and track their dowry lists. Built with **Flutter**, **Firebase**, and **SharedPreferences**.
 
-## 📈 My GitHub Stats
-
-![Kamuran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamurandogan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamurandogan&layout=compact&theme=radical)
-
 ## ✉️ Contact
 
 - **Email**: kamurandgn@gmail.com
