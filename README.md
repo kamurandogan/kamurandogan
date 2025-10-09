@@ -31,7 +31,7 @@ Kullanıcı odaklı, performanslı ve test edilebilir mobil uygulamalar gelişti
 | Analitik & Büyüme | Firebase Analytics, Google Analytics, ASO, Google Ads, Meta Ads |
 | Diğer | Postman, Figma, Git |
 
-### Rozetler (Örnek)
+### Rozetler
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -40,7 +40,6 @@ Kullanıcı odaklı, performanslı ve test edilebilir mobil uygulamalar gelişti
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![Codemagic](https://img.shields.io/badge/Codemagic-2396F3?logo=codemagic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
@@ -84,12 +83,13 @@ Kullanıcı odaklı, performanslı ve test edilebilir mobil uygulamalar gelişti
 
 ---
 
-## 📊 (Opsiyonel) GitHub İstatistik Bileşenleri
+## 📊 GitHub İstatistik Bileşenleri
 
-Aşağıdaki bölümü etkinleştirmek istersen kullanıcı adını uyarlayıp README'de bırakman yeterli.
+```
+md
 
-```md
 ![Kamuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamurandogan&show_icons=true&theme=tokyonight)
+
 ```
 
 ---
