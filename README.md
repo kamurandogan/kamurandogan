@@ -1,27 +1,116 @@
-# Kamuran Doğan
+<!-- PROFILE README -->
+# 👋 Merhaba, ben **Kamuran Doğan**
 
-Hello! I'm **Kamuran Doğan**. I'm an active mobile app developer, specializing in **Flutter** and **Dart** to build high-performance, user-friendly mobile applications. I always strive to use the best practices and the latest technologies in the software development process.
+## Flutter Developer | Mobile App Engineer
 
-## 🛠️ My Skills
+Kullanıcı odaklı, performanslı ve test edilebilir mobil uygulamalar geliştiriyorum. 2021'den beri Flutter ekosistemindeyim; Clean Architecture, MVVM ve durum yönetimi (Bloc / Cubit / Provider / GetX) prensipleriyle sürdürülebilir kod tabanları oluşturuyorum. CI/CD otomasyonu (Codemagic) ve ölçülebilir kalite (test coverage, analitik) benim için kritik.
 
-### Flutter & Dart
-- **Widget-Based Development**: I design user-friendly and visually appealing interfaces using Flutter's extensive widget library.
-- **State Management**: I implement clean and maintainable architectures in my apps using popular state management tools like `Provider`, `Bloc`, and `Riverpod`.
-- **Stateful & Stateless Widgets**: I optimize performance by using Stateful and Stateless Widgets as needed in my applications.
-- **Firebase Integration**: I integrate Firebase services such as real-time database, user authentication, and cloud storage into my applications.
-- **Local Database & Cache Management**: By using tools like `Hive` and `SharedPreferences`, I store data locally to enhance the user experience.
+---
 
-### Other Technologies
-- **RESTful API Integration**: I work with RESTful services in my applications, configuring APIs to meet user needs.
-- **Git & GitHub**: I version control my projects with Git and share them on GitHub, contributing to the open-source community.
+## 🚀 Kısa Özet
 
-## 🚀 My Projects
+- 3+ yıl Flutter deneyimi
+- Yayınlanmış 3 uygulama (Toplam 6.500+ indirme)
+- Clean Architecture & modüler yapı
+- Codemagic ile otomatik build / test / deploy
+- Performans, UX ve ölçeklenebilirlik odağı
 
-### [Wedding Shopping Check](https://github.com/kamurandogan/CeyizListem)
-A shopping and dowry list management app developed for those preparing for a wedding. Users can create, manage, and track their dowry lists. Built with **Flutter**, **Firebase**, and **SharedPreferences**.
+---
 
-## ✉️ Contact
+## 🛠️ Teknolojiler ve Araçlar
 
-- **Email**: kamurandgn@gmail.com
+| Kategori | Araçlar |
+|----------|---------|
+| Dil & Framework | Dart, Flutter |
+| Mimari & Pattern | Clean Architecture, MVVM, Bloc, Provider, Cubit, GetX |
+| Backend & Entegrasyon | Firebase (Auth, Firestore, RT DB, Cloud Functions), REST APIs |
+| Veri & Depolama | SQLite, Shared Preferences |
+| Test | Unit, Widget, Integration Tests |
+| CI/CD | Codemagic, GitHub Flow |
+| Yayınlama | Google Play Console, App Store Connect |
+| Analitik & Büyüme | Firebase Analytics, Google Analytics, ASO, Google Ads, Meta Ads |
+| Diğer | Postman, Figma, Git |
 
-Feel free to reach out if you'd like to collaborate on exciting projects!
+### Rozetler (Örnek)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Bloc](https://img.shields.io/badge/Bloc-7B5BE4?logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-2396F3?logo=codemagic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+## 📱 Yayında Olan Uygulamalar
+
+### Bedtime Tales – Çocuk Hikâye Uygulaması
+
+- **İndirme:** 500+
+- **Öne Çıkanlar:** Offline okuma, custom audio player
+- **Play Store:** <https://play.google.com/store/apps/details?id=com.kamurandev.bedtimetales>
+
+### Çeyiz Listesi – Düğün Organizasyon Uygulaması
+
+- **İndirme:** 5.000+
+- **Öne Çıkanlar:** Basit & hızlı görev ekleme, kalıcı veri
+- **Play Store:** <https://play.google.com/store/apps/details?id=com.kamurandev.wedding_shopping_check>
+
+### Borç ve Kredi Takip – Finansal Yönetim
+
+- **İndirme:** 1.000+
+- **Öne Çıkanlar:** Hatırlatmalar, görsel borç analizi
+- **Play Store:** <https://play.google.com/store/apps/details?id=com.kamurandev.debt_and_installment_tracker>
+
+---
+
+## 🧩 Mimari Yaklaşım
+
+- Katmanlı yapı: Data / Domain / Presentation
+- Bağımlılık azaltma ve test kolaylığı
+- State management seçimini gereksinime göre optimize etme
+- Reusable widget / component kütüphanesi oluşturma
+
+---
+
+## ✅ Kalite ve Süreç
+
+- Kod inceleme (PR) disiplinine uygun geliştirme
+- Unit & Widget & Integration test piramidi
+- Codemagic pipeline: build → test → artifact → mağaza yayın (manuel adım azaltma)
+- Analytics & kullanıcı davranışı ölçümü ile yinelemeli iyileştirme
+
+---
+
+## 📊 (Opsiyonel) GitHub İstatistik Bileşenleri
+
+Aşağıdaki bölümü etkinleştirmek istersen kullanıcı adını uyarlayıp README'de bırakman yeterli.
+
+```md
+![Kamuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamurandogan&show_icons=true&theme=tokyonight)
+```
+
+---
+
+## 🤝 İletişim
+
+- **E-posta:** <mailto:kamurandgn@gmail.com>
+- **LinkedIn:** <https://linkedin.com/in/kamurandogan>
+- **GitHub:** <https://github.com/kamurandogan>
+
+> Yeni iş birliklerine ve açık kaynak katkı fırsatlarına açığım.
+
+---
+
+## 🌐 English Summary
+
+I am a Flutter developer focused on scalable, testable mobile app architecture (Clean Architecture, MVVM, Bloc). I automate delivery with Codemagic CI/CD and care about measurable quality (coverage & analytics). Published 3 apps with 6.5K+ total downloads on Google Play.
+
+**Tech Focus:** Flutter • Firebase • Bloc/Cubit • SQLite • REST APIs • CI/CD (Codemagic) • Testing (Unit/Widget/Integration)
+
+If you'd like to collaborate or discuss a project, feel free to reach out.
+
+---
+© 2025 Kamuran Doğan
